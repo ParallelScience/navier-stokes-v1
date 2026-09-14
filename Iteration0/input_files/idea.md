@@ -1,0 +1,4 @@
+**Title**: Perturbation-Induced Stability Analysis of the Taylor-Green Vortex
+
+**Description**: This research will explore the stability of the Taylor-Green vortex by applying controlled perturbations to the initial velocity fields (u, v) and analyzing the resulting flow dynamics at t=0. By systematically varying the amplitude of these perturbations, we will utilize the provided velocity and pressure data to compute the resulting vorticity and examine how these adjustments influence the vortex structure's stability and potential breakdown. Employing stability analysis techniques, we will quantify the threshold at which perturbations lead to significant changes in energy distribution and flow behavior. This study will deepen our understanding of the robustness of the Taylor-Green vortex under small disturbances, providing valuable insights into vortex dynamics in incompressible flow and setting the stage for future investigations of time-evolving flows.
+\
