@@ -4,12 +4,12 @@ This dataset contains a synthetic 2D compressible flow field representing an ise
 
 ## File Inventory (absolute paths)
 
-- `/home/node/work/projects/navier-stokes-v1/velocity_u.npy` — x‑component of velocity, shape (64, 64), dtype float64  
-- `/home/node/work/projects/navier-stokes-v1/velocity_v.npy` — y‑component of velocity, shape (64, 64), dtype float64  
-- `/home/node/work/projects/navier-stokes-v1/pressure.npy` — pressure field, shape (64, 64), dtype float64  
-- `/home/node/work/projects/navier-stokes-v1/density.npy` — density field, shape (64, 64), dtype float64  
-- `/home/node/work/projects/navier-stokes-v1/temperature.npy` — temperature field, shape (64, 64), dtype float64  
-- `/home/node/work/projects/navier-stokes-v1/coordinates.npy` — spatial coordinates (x, y) for each grid point, shape (64, 64, 2), dtype float64  
+- `/home/node/work/projects/navier-stokes-v1/velocity_u.npy` — x‑component of velocity, shape (64, 64),   
+- `/home/node/work/projects/navier-stokes-v1/velocity_v.npy` — y‑component of velocity, shape (64, 64),   
+- `/home/node/work/projects/navier-stokes-v1/pressure.npy` — pressure field, shape (64, 64),   
+- `/home/node/work/projects/navier-stokes-v1/density.npy` — density field, shape (64, 64),   
+- `/home/node/work/projects/navier-stokes-v1/temperature.npy` — temperature field, shape (64, 64),   
+- `/home/node/work/projects/navier-stokes-v1/coordinates.npy` — spatial coordinates (x, y) for each grid point, shape (64, 64, 2),   
 
 ## Variable Definitions
 
